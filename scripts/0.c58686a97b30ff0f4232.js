@@ -16,11 +16,12 @@
                             <p class="title">THISISALLABOUT</p>
                             <p>An online journalism with data-driven analysis on social issues</p>
                         </div>
+                        <div class="detail-github"></div>
                     </div>
 
                     <ul class="detail-codelist">
                         <li>
-                            <p class="codelist-title">News aggregation algorithm</p>
+                            <a href="https://github.com/brklynfivefive/thisisallabout_backend/" target="_blank"><p class="codelist-title">News aggregation algorithm ➝</p></a>
                             <div class="codelist-desc">
                                 <span class="desc-lang">Python</span>
                                 <span class="desc-lang">MongoDB</span>
@@ -28,7 +29,7 @@
                             </div>
                         </li>
                         <li>
-                            <a href="https://thisisallabout.com/theyear/" target="_blank"><p class="codelist-title">Unsupervised  data clustering algorithm ➝</p></a>
+                            <a href="https://github.com/brklynfivefive/thisisallabout_backend/tree/master/kevin/cluster" target="_blank"><p class="codelist-title">Unsupervised  data clustering algorithm ➝</p></a>
                             <div class="codelist-desc">
                                 <span class="desc-lang">Python</span>
                                 <span class="desc-component">Hash-Transform structure with dimension reduction, automatic cluster size detection, and post-processing.</span>
@@ -36,7 +37,7 @@
                         </li>
 
                         <li>
-                        <a href="https://thisisallabout.com/whattrumpsaid/" target="_blank"><p class="codelist-title">Clustering work of President Trump's tweet data ➝</p></a>
+                            <a href="https://github.com/brklynfivefive/thisisallabout_backend/tree/master/data_publish_ready/trumptweeted" target="_blank"><p class="codelist-title">Clustering work of President Trump's tweet data ➝</p></a>
                             <div class="codelist-desc">
                                 <span class="desc-lang">Python</span>
                                 <span class="desc-component">TfIdfVectorizer with dimension reduction, automatic cluster size detection, and editorial editing via in-house data console.</span>
@@ -44,7 +45,7 @@
                         </li>
 
                         <li>
-                            <a href="https://thisisallabout.com" target="_blank"><p class="codelist-title">Website and visualization contents ➝</p></a>
+                            <a href="https://github.com/brklynfivefive/thisisallabout_frontend" target="_blank"><p class="codelist-title">Website and visualization contents ➝</p></a>
                             <div class="codelist-desc">
                                 <span class="desc-lang">Javascript</span>
                                 <span class="desc-lang">CSS</span>
@@ -53,7 +54,7 @@
                         </li>
 
                         <li>
-                            <p class="codelist-title">In-house data editing console</p>
+                            <a href="https://github.com/brklynfivefive/thisisallabout_frontend/tree/master/stuart" target="_blank"><p class="codelist-title">In-house data editing console ➝</p>
                             <div class="codelist-desc">
                                 <span class="desc-lang">Javascript</span>
                                 <span class="desc-component">Built with lit-html/es6/webpack, contains dataset file post-processing and editorial tracker.</span>
